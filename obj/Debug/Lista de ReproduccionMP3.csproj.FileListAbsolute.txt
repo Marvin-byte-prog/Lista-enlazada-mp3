@@ -1,0 +1,15 @@
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\bin\Debug\Lista de ReproduccionMP3.exe.config
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\bin\Debug\Lista de ReproduccionMP3.exe
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\bin\Debug\Lista de ReproduccionMP3.pdb
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\obj\Debug\Lista de ReproduccionMP3.csprojAssemblyReference.cache
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\obj\Debug\Lista de ReproduccionMP3.csproj.ResolveComReference.cache
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\obj\Debug\Lista_de_ReproduccionMP3.Form1.resources
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\obj\Debug\Lista_de_ReproduccionMP3.Properties.Resources.resources
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\obj\Debug\Lista de ReproduccionMP3.csproj.GenerateResource.cache
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\obj\Debug\Lista de ReproduccionMP3.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\obj\Debug\Lista de ReproduccionMP3.exe
+C:\Users\Marvin\source\repos\Lista de ReproduccionMP3\obj\Debug\Lista de ReproduccionMP3.pdb
